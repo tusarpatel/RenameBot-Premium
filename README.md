@@ -73,7 +73,8 @@ tmux
 ```
 python3 bot.py
 ```
-
+# deploy on heroku
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tusarpatel/RenameBot-Premium)
  # Join Telegram Channel 
  - [WebXBots](https://t.me/WebXBots). Bot Updates Channel
  - Support Group [WebX-Support](https://t.me/Web_X_Support). For Bug report.
