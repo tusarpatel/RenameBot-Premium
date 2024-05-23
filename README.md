@@ -42,7 +42,15 @@ broadcast - (Admin Use Only)Send Message To All Users
 addpremium - (Admin Use Only)Add Users To Rename More Then 4Gb Files and Remove Time Limit 
 
 ```
-
+# Deploy to heroku 
+<summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/tusarpatel/RenameBot-Premium/tree/patch-2">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+ 
 # Deploy on VPS
 
 * Clone the Repo
