@@ -75,5 +75,5 @@ python3 bot.py
 ```
 
  # Join Telegram Channel 
- - [WebXBots](https://t.me/WebXBots). Bot Updates Channel
- - Support Group [WebX-Support](https://t.me/Web_X_Support). For Bug report.
+ - [WebXBots](https://t.me/about_tosuu). Bot Updates Channel
+ - Support Group [WebX-Support](https://t.me/nothing_bots_support). For Bug report.
